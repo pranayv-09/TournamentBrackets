@@ -87,21 +87,6 @@ Contract ID: STZ2H3RYP2GMP2TK3635AEAY59ZRMKFZHCX1TYXP.TournamentBracketProtocol
 - Transparent prize distribution
 - No single point of failure
 
-### Getting Started
-```clarity
-;; Create a tournament
-(contract-call? .tournament-bracket-protocol create-tournament "Championship 2025" u1000000 u16)
 
-;; Register for a tournament
-(contract-call? .tournament-bracket-protocol register-and-progress u1 "register" none)
-
-;; Progress tournament bracket
-(contract-call? .tournament-bracket-protocol register-and-progress u1 "progress" (some {round: u1, match-id: u1, winner: 'SP2J6ZY48GV1EZ5V2V5RB9MP66SW86PYKKNRV9EJ7}))
-
-
-
-```
-
----
 
 **Built with ❤️ for the decentralized future of competitive gaming**
