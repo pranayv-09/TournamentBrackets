@@ -1,3 +1,4 @@
+
 # TournamentBracket Protocol
 
 ## Project Description
@@ -58,31 +59,17 @@ The TournamentBracket Protocol envisions a future where competitive events are g
 
 ## Contract Address Details
 
-### Mainnet Deployment
-- **Contract Address**: `[TO BE ADDED]`
-- **Contract Name**: `tournament-bracket-protocol-v1`
-- **Network**: Stacks Mainnet
-- **Deployment Block**: `[TO BE ADDED]`
-- **Deployment Transaction**: `[TO BE ADDED]`
+<img width="1889" height="865" alt="Screenshot 2025-08-26 121959" src="https://github.com/user-attachments/assets/337510ef-03cb-45b1-89e5-d88db908c2cb" />
+
 
 ### Testnet Deployment
 - **Contract Address**: STZ2H3RYP2GMP2TK3635AEAY59ZRMKFZHCX1TYXP.TournamentBracketProtocol
 - **Contract Name**: `tournament-bracket-protocol-v1-testnet`
 - **Network**: Stacks Testnet
-- **Deployment Block**: `[TO BE ADDED]`
-- **Deployment Transaction**: `[TO BE ADDED]`
 
 ### Contract Verification
 - **Source Code**: Verified on Stacks Explorer
-- **Audit Status**: `[TO BE ADDED]`
-- **Audit Report**: `[TO BE ADDED]`
 
-### Important Addresses
-- **Protocol Owner**: `[TO BE ADDED]`
-- **Fee Recipient**: `[TO BE ADDED]`
-- **Emergency Multisig**: `[TO BE ADDED]`
-
----
 
 ## Technical Implementation
 
